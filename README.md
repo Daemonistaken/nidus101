@@ -42,7 +42,7 @@
 
 ### [Miscellanea](#miscellanea-1)
 - [How to reduce time in mission?](#how-to-reduce-time-in-mission)
-- [Flings](#flings-1)
+- [Flings](#flings)
 
 ### [Fixes](#fixes)
 - [Lamp](#-lamp)
