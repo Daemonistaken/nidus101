@@ -44,7 +44,7 @@
 - [How to reduce time in mission?](#how-to-reduce-time-in-mission)
 - [Flings](#flings)
 
-### [Fixes](#fixes)
+### [Fixes](#fix-locations)
 - [Lamp](#-lamp)
 - [Sight bottom](#-sight-bottom)
 - [Sight ceiling](#-sight-ceiling)
