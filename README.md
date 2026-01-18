@@ -42,6 +42,7 @@
 
 ### [Miscellanea](#miscellanea-1)
 - [How to reduce time in mission?](#how-to-reduce-time-in-mission)
+- [Flings](#flings-1)
 
 ### [Fixes](#fixes)
 - [Lamp](#-lamp)
@@ -329,7 +330,7 @@ No, unless you are looking to go for fast runs.
 ### How to reduce time in mission?
 Optimize your rollout speed, add flicks without breaking your wrist(please) and if your fps lets you, insta pop the larva on both lake and bridge.
 
-## Flings
+### Flings
 
 **Depending on the lake larva pop, placement of the dome and bridge larva, enemies might fling above or around the dome.**<br/>
 **Usually the main reason of flings are:**<br/>
