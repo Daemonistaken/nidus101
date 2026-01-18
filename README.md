@@ -37,8 +37,8 @@
 - [Larva Position](#lake-position)
 - [When to stop](#when-to-stop-larva-on-lake)
 - [How to pop](#how-to-pop-larva-on-lake)
-- [Is flick needed?](#is-flick-necessary)
 - [Footage](#footage-lake)
+- [Is flick necessary?](#is-flick-necessary)
 
 ### [Miscellanea](#miscellanea-1)
 - [How to reduce time in mission?](#how-to-reduce-time-in-mission)
@@ -333,7 +333,7 @@ Optimize your rollout speed, add flicks without breaking your wrist(please) and 
 
 **Depending on the lake larva pop, placement of the dome and bridge larva, enemies might fling above or around the dome.**<br/>
 **Usually the main reason of flings are:**<br/>
-- An enemy that has different distance from the rest of the enemies and the larva got popped before the specific enemy reached the larva safe zone possibly making it have a different position from the rest on the air, therefore having a different trajectory towards bridge.
+- An enemy that has different distance from the rest of the enemies and the larva got popped before the specific enemy reached the imaginary circle around the larva making it have a different position from the rest on the air, therefore having a different trajectory towards bridge.
 - An insta pop that has made the enemies spread vastly on the air making them all have different positions and trajectories.<br/>
 **What's the easy way to avoid flings?**
 - Pop the larva in time to avoid enemies getting spread on lake.
