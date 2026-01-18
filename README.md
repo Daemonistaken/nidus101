@@ -280,7 +280,8 @@ There are several ways to pop the larva on bridge.<br/>
 ### What if larva goes through the bridge?
 
 There is no 100% known reason about why larva clips through the bridge.<br/>
-Tip: Don't spam the larva and try throwing the larva on different zones of the bridge.
+Tip: Don't spam the larva and try throwing the larva on different zones of the bridge.<br/>
+Additionally there has been reports that going from 5 Tauforged shards to 4 Tauforged, reducing cast speed has helped reducing the chances of larva going through.
 
 ### Footage bridge
 
@@ -348,7 +349,7 @@ The following examples could've been avoided(**or not**) by either having the do
 ![Bridge Larva fling2](media/flings_media/bridge_larva_fling2.webp)
 
 ## Fix locations
-
+Here are some known fixes to pull the enemies to bridge, this however doesn't mean you cannot improvise and use other surfaces. As long as you get the enemies to bridge succesfully it will be good.<br/>
 ![Fix locations](media/fixes_media/all_locations.webp)
 
 ### Fix area coverage
