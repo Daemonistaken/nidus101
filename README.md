@@ -40,7 +40,6 @@
 - [Larva Position](#lake-position)
 - [When to stop](#when-to-stop-larva-on-lake)
 - [How to pop](#how-to-pop-larva-on-lake)
-- [Why is important for bridge larva](#)
 - [Is flick needed?](#is-flick-necessary)
 
 ### Miscellanea
