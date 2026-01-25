@@ -295,8 +295,12 @@ Additionally there has been reports that going from 5 Tauforged shards to 4 Tauf
 
 ### Lake Position
 
-Larva doesn't need a huge accuracy overall but for a perfect larva pull you want to throw the larva on the green rectangle.<br/>
-It should be fine to throw the larva at the red rectangle area but be aware that you might start missing enemies once you place larvas outside of it.<br/>
+The following image shows 3  rectangles, 🟡Yellow, 🟢Green and 🔴Red.<br/>
+🟡 Yellow states for perfect larva throws where you will pull all enemies every single time.<br/>
+🟢 Green is a more broad area where larva is stil fine to throw.<br/>
+🔴 Red is the last area where accuracy in terms of pulling enemies will start to decay which if you throw outside, you might start missing several enemies.<br/>
+**Wether you flick or not you should be placing the larvas inside the Yellow/Green area.**<br/>
+
 ![Larva placement](media/lake_position/larva_placement.webp)
 
 ### When to stop larva on lake
