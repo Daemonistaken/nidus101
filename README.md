@@ -201,7 +201,7 @@ Cons: Way behind the above, normal bullet jump
 
 Pros: Remove slam animation.<br/>
 Cons: Very hard to pull off and can end up anywhere but bridge.<br/>
-To pull this off, you need to be relatively close to the column and attack while crosshair is on the column. The game understand that you are slamming and it will glide you around the surface until finally reaching the floor.
+To pull this off, you need to be relatively close to the column and attack while crosshair is on the column. The game understands that you are slamming and it will glide you around the surface until finally reaching the floor.
 
 ##### Rollout
 
