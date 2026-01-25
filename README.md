@@ -307,7 +307,7 @@ The following image shows 3 rectangles, 🟡Yellow, 🟢Green and 🔴Red.<br/>
 
 Looking at the next image you want to stop the larva inside the green oval.<br/>
 To practice your range you can place a waypoint on the white strip on the tube inside the green oval and make use of the minimap to understand if your larva was stopped succesfully.<br/>
-![Larva position from top](media/lake_position/larva_range.png)
+![Larva position from top](media/lake_position/larva_range_minimap.webp)
 
 ### How to pop larva on lake
 
