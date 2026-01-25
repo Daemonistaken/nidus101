@@ -295,10 +295,10 @@ Additionally there has been reports that going from 5 Tauforged shards to 4 Tauf
 
 ### Lake Position
 
-The following image shows 3  rectangles, 🟡Yellow, 🟢Green and 🔴Red.<br/>
-🟡 Yellow states for perfect larva throws where you will pull all enemies every single time.<br/>
-🟢 Green is a more broad area where larva is stil fine to throw.<br/>
-🔴 Red is the last area where accuracy in terms of pulling enemies will start to decay which if you throw outside, you might start missing several enemies.<br/>
+The following image shows 3 rectangles, 🟡Yellow, 🟢Green and 🔴Red.<br/>
+🟡 Yellow indicates the optimal placement for Larva throws, where all enemies will be pulled consistently every time.<br/>
+🟢 Green represents a wider area where throwing Larva is still effective and reliable.<br/>
+🔴 Red marks the outer limit where pull accuracy begins to degrade. Throwing Larva beyond this zone may cause you to miss several enemies.<br/>
 **Wether you flick or not, you should be placing the larvas inside the Yellow/Green area.**<br/>
 
 ![Larva placement](media/lake_position/larva_placement.webp)
