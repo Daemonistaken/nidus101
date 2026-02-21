@@ -129,7 +129,7 @@ The random weapon to use its recommended to choose one with high base attack spe
 ### What is larva
 
 Larva is a **projectile** that once hitting a surface or manually stopped mid air will pull all visible enemies in a 33.60 meter radius.
-Must know that **larva is casted and then ejected**. Meaning it will not get sent once you press the larva key.
+Must know that **larva is casted and then ejected**. Meaning it has a bit of delay since you press the larva and it gets ejected because the ability is casted.
 
 [Larva Projectile](https://youtu.be/7VaxpMrqtW0)<br/>
 ![Larva Projectile Normal Speed](media/larva_projectile/larva_projectile.webp)<br/>
@@ -169,7 +169,7 @@ Cons: Relatively high chance for Garesh to teleport to you.
 #### No praedos with Parkour shard
 
 Pros: Bit behind praedos position, faster bullet jump, less inputs needed.<br/>
-Cons: Similar or less chance than praedos for Garesh can teleport to you.<br/>
+Cons: Similar or less chance than praedos for Garesh to teleport to you.<br/>
 ![Archon shards](media/builds/parkour_shard.webp)
 
 ##### Initial Position
