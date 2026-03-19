@@ -66,7 +66,7 @@
 - [L nek op](#-l-nekros-operator)
 - [R nekros wall](#-r-nekros-wall)
 
-# [Credits](#credits-1)
+## [Credits](#credits-1)
 ---
 
 # Introduction
@@ -552,6 +552,6 @@ The position shown makes use of the height to pull enemies from the platform on 
 ---
 
 # Credits
-[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.
-__**ZGB**__ - Helped creating some images and improved wording.
-__**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it.
+[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.<br/>
+__**ZGB**__ - Helped creating some images and improved wording.<br/>
+__**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it.<br/>
