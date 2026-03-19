@@ -109,11 +109,13 @@ Play slow and steady without rushing or spamming the larva button.
 - Enable Screen Shake: DISABLED
 
 **Sensitivity**<br/>
-Recommended a relatively high sensitivity (If you are going to flick)<br/>
-What i use:<br/>
 
+First of all, take care of your wrist!<br/>
+I Recommend a relatively high sensitivity if you are going to flick, this is pretty much up to you!<br/>
+
+What i use:<br/>
 - Look/Aim Sensitivity: 10
-- Mouse DPI: 950
+- Mouse DPI: 900 or 1600
 
 ---
 
