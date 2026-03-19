@@ -9,6 +9,7 @@
 ## [Settings/Loadout](#settingsloadout-1)
 
 - [Graphical settings](#graphical-settings)
+- [Sensitivity](#sensitivity)
 - [Loadout](#loadout)
 - [Build](#build)
 - [Archon shards](#archon-shards)
@@ -108,7 +109,7 @@ Play slow and steady without rushing or spamming the larva button.
 - Reduce Teammate Visual Effects: ENABLED
 - Enable Screen Shake: DISABLED
 
-**Sensitivity**<br/>
+## Sensitivity
 
 First of all, take care of your wrist!<br/>
 I Recommend a relatively high sensitivity if you are going to flick, this is pretty much up to you!<br/>
