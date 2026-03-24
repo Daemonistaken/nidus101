@@ -26,7 +26,8 @@
 ### [Rollouts](#rollout-1)
 
 - [Praedos](#praedos)
-- [No praedos with Parkour shard](#no-praedos-with-parkour-shard)
+- [No praedos with Tau Parkour shard](#no-praedos-with-parkour-shard)
+- [No praedos with Non-tau Parkour shard](#no-praedos-non-tauforged-parkour-shard)
 - [No praedos No parkour shard](#no-praedos-no-parkour-shard)
 
 ### [Bridge](#bridge-1)
@@ -188,7 +189,7 @@ Cons: Relatively high chance for Garesh to teleport to you.
 [Praedos Rollout](https://youtu.be/5zrumHz5d4A)
 ![Praedos Rollout](media/rollouts/praedos/praedos_rollout.webp)
 
-#### No praedos with Parkour shard
+#### No praedos with Tauforged Parkour shard
 
 Pros: Bit behind praedos position, faster bullet jump, less inputs needed.<br/>
 Cons: Similar or less chance than praedos for Garesh to teleport to you.<br/>
@@ -196,7 +197,7 @@ Cons: Similar or less chance than praedos for Garesh to teleport to you.<br/>
 
 ##### Initial Position
 
-![Parkour Shard Only Initial Position](media/rollouts/pk_shard_rollout/no_praedos_yes_pk_shard-initial_position.webp)
+![Tau Parkour Shard Only Initial Position](media/rollouts/pk_shard_rollout/no_praedos_yes_pk_shard-initial_position.webp)
 
 ##### Rollout
 
@@ -204,6 +205,19 @@ Cons: Similar or less chance than praedos for Garesh to teleport to you.<br/>
 ![Parkour Shard Fast Rollout](media/rollouts/pk_shard_rollout/pk_shard_fast.webp)<br/>
 [Slow Rollout](https://youtu.be/fsBbTE1XAQE)<br/>
 ![Parkour Shard Slow Rollout](media/rollouts/pk_shard_rollout/pk_shard_slow.webp)
+
+#### No praedos Non-tauforged parkour shard
+
+Pros: Similar chance for garesh to teleport as Non praedos No parkour shard. (Subject to change)<br/>
+Cons: None? (Subject to change)<br/>
+![Archon Shards](media/rollouts//no_praedos_non-tau_pk_shard/nidus_non-tau_pk_shard_helminth.webp)
+
+##### Initial Position
+![Initial position](media/rollouts//no_praedos_non-tau_pk_shard/initial_position.jpg)
+
+##### Rollout
+[Normal Rollout](https://youtu.be/PAVgd-tGjtY)<br/>
+![Rollout](media/rollouts//no_praedos_non-tau_pk_shard/nidus_non-tau_pk_shard_no-praedos_rollout.webp)
 
 #### No praedos No parkour shard
 
