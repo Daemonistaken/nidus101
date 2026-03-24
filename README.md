@@ -9,6 +9,7 @@
 ## [Settings/Loadout](#settingsloadout-1)
 
 - [Graphical settings](#graphical-settings)
+- [Sensitivity](#sensitivity)
 - [Loadout](#loadout)
 - [Build](#build)
 - [Archon shards](#archon-shards)
@@ -67,7 +68,7 @@
 - [L nek op](#-l-nekros-operator)
 - [R nekros wall](#-r-nekros-wall)
 
-# [Credits](#credits-1)
+## [Credits](#credits-1)
 ---
 
 # Introduction
@@ -109,12 +110,14 @@ Play slow and steady without rushing or spamming the larva button.
 - Reduce Teammate Visual Effects: ENABLED
 - Enable Screen Shake: DISABLED
 
-**Sensitivity**<br/>
-Recommended a relatively high sensitivity (If you are going to flick)<br/>
-What i use:<br/>
+## Sensitivity
 
+First of all, take care of your wrist!<br/>
+I Recommend a relatively high sensitivity if you are going to flick, this is pretty much up to you!<br/>
+
+What i use:<br/>
 - Look/Aim Sensitivity: 10
-- Mouse DPI: 950
+- Mouse DPI: 900 or 1600
 
 ---
 
@@ -566,6 +569,6 @@ The position shown makes use of the height to pull enemies from the platform on 
 ---
 
 # Credits
-[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.
-__**ZGB**__ - Helped creating some images and improved wording.
-__**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it.
+[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.<br/>
+__**ZGB**__ - Helped creating some images and improved wording.<br/>
+__**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it.<br/>
