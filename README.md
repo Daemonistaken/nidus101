@@ -30,7 +30,7 @@
 - [No praedos with Tau Parkour shard](#no-praedos-with-parkour-shard)
 - [No praedos with Non-tau Parkour shard](#no-praedos-non-tauforged-parkour-shard)
 - [No praedos No parkour shard](#no-praedos-no-parkour-shard)
-  - [Yoyo rollout](##yoyo-rollout-no-praedos-no-parkour-shard)
+  - [Yoyo rollout](#yoyo-rollout-no-praedos-no-parkour-shard)
 ### [Bridge](#bridge-1)
 
 - [Afk position](#afk-position)
