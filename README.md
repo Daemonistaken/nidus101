@@ -236,7 +236,7 @@ Cons: Way behind the above, normal bullet jump
 [Normal Rollout](https://youtu.be/I5XZ-OfXY_I)<br/>
 ![Normal Rollout](media/rollouts/no_pk_no_praedos/Normalrollout.webp)
 
-#### (Advanced rollout) No praedos No parkour shard
+#### (yoyo rollout) No praedos No parkour shard
 
 Pros: Remove slam animation.<br/>
 Cons: Very hard to pull off and can end up anywhere but bridge.<br/>
