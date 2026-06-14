@@ -31,6 +31,7 @@
 - [No praedos with Non-tau Parkour shard](#no-praedos-non-tauforged-parkour-shard)
 - [No praedos No parkour shard](#no-praedos-no-parkour-shard)
   - [Yoyo rollout](#yoyo-rollout-no-praedos-no-parkour-shard)
+
 ### [Bridge](#bridge-1)
 
 - [Afk position](#afk-position)
@@ -47,6 +48,7 @@
 - [When to stop](#when-to-stop-larva-on-lake)
 - [How to pop](#how-to-pop-larva-on-lake)
 - [Footage](#footage-lake)
+- [How to 24+5](#how-to-245-on-non-reinforcements)
 - [Is flick necessary?](#is-flick-necessary)
 
 ### [Miscellanea](#miscellanea-1)
@@ -69,6 +71,7 @@
 - [R nekros wall](#-r-nekros-wall)
 
 ## [Credits](#credits-1)
+
 ---
 
 # Introduction
@@ -76,7 +79,7 @@
 ## Why is nidus fps dependant
 
 Larva pull speed is based on the frames per second you have in game.
-[FPS Comparison](https://youtu.be/FvC9bvZhUF4)<br/>
+[FPS Comparison](https://youtu.be/FvC9bvZhUF4)`<br/>`
 ![FPS Comparison](media/fps_comparison/larvafps_comparison.webp)
 
 ---
@@ -96,7 +99,7 @@ Play slow and steady without rushing or spamming the larva button.
 
 ## Graphical settings
 
-**Video**<br/>
+**Video**`<br/>`
 
 - Max Framerate: UNLIMITED
 - Field of view: 90
@@ -104,7 +107,7 @@ Play slow and steady without rushing or spamming the larva button.
 - Texture memory: HIGH
 - High Shader quality: ENABLED
 
-**Accessibility**<br/>
+**Accessibility**`<br/>`
 
 - Visual Effects Intensity: 10
 - Reduce Teammate Visual Effects: ENABLED
@@ -112,12 +115,13 @@ Play slow and steady without rushing or spamming the larva button.
 
 ## Sensitivity
 
-First of all, take care of your wrist!<br/>
-I Recommend a relatively high sensitivity if you are going to flick, this is pretty much up to you!<br/>
+First of all, take care of your wrist!`<br/>`
+I Recommend a relatively high sensitivity if you are going to flick, this is pretty much up to you!`<br/>`
 
-What i use:<br/>
+What i use:`<br/>`
+
 - Look/Aim Sensitivity: 10
-- Mouse DPI: 900 or 1600
+- Mouse DPI: 900
 
 ---
 
@@ -141,8 +145,8 @@ What i use:<br/>
 
 ### Praedos / Random weapon
 
-You only need attack speed mods to make the slam animation faster.<br/>
-The random weapon to use its recommended to choose one with high base attack speed. Build can be the same as praedos.<br/>
+You only need attack speed mods to make the slam animation faster.`<br/>`
+The random weapon to use its recommended to choose one with high base attack speed. Build can be the same as praedos.`<br/>`
 ![Praedos build](media/builds/praedos-build.webp)
 ![Praedos Evolutions](media/builds/praedos_evolutions.webp)
 
@@ -157,30 +161,30 @@ The random weapon to use its recommended to choose one with high base attack spe
 Larva is a **projectile** that once hitting a surface or manually stopped mid air will pull all visible enemies in a 33.60 meter radius.
 Must know that **larva is casted and then ejected**. Meaning it has a bit of delay since you press the larva and it gets ejected because the ability is casted.
 
-[Larva Projectile](https://youtu.be/7VaxpMrqtW0)<br/>
-![Larva Projectile Normal Speed](media/larva_projectile/larva_projectile.webp)<br/>
+[Larva Projectile](https://youtu.be/7VaxpMrqtW0)`<br/>`
+![Larva Projectile Normal Speed](media/larva_projectile/larva_projectile.webp)`<br/>`
 ![Larva Projectile Slow Speed](media/larva_projectile/larva_projectile-slowed.webp)
 
 ### What does the augment do
 
-Its augment lets us burst the larva which its used at rank 0.<br/>
+Its augment lets us burst the larva which its used at rank 0.`<br/>`
 Below its shown ways to burst the larva.
 
 1. (Late pop) The first burst waiting for the enemies to be held by the larva.
 2. (Timed pop) The second burst, popping the larva once enemies are close enough.
 3. (Insta pop) The third burst, spamming to burst the larva no matter where enemies are.
 
-[Larva Pops](https://youtu.be/FeWinBSm1ME)<br/>
+[Larva Pops](https://youtu.be/FeWinBSm1ME)`<br/>`
 ![Larva Pops](media/larva_pop/larva-pop_simulacrum.webp)
 
 ### Larva position and Rollouts
 
-To pull all enemies you need to be fast and relatively accurate, throwing the larva inside the following zone:<br/>
+To pull all enemies you need to be fast and relatively accurate, throwing the larva inside the following zone:`<br/>`
 ![Larva rollout position](media/rollouts/larva-position.webp)
 
 #### Praedos
 
-Pros: Closer to bridge, faster bullet jump, less inputs needed.<br/>
+Pros: Closer to bridge, faster bullet jump, less inputs needed.`<br/>`
 Cons: Relatively high chance for Garesh to teleport to you.
 
 ##### Initial Position
@@ -194,8 +198,8 @@ Cons: Relatively high chance for Garesh to teleport to you.
 
 #### No praedos with Tauforged Parkour shard
 
-Pros: Bit behind praedos position, faster bullet jump, less inputs needed.<br/>
-Cons: Similar or less chance than praedos for Garesh to teleport to you.<br/>
+Pros: Bit behind praedos position, faster bullet jump, less inputs needed.`<br/>`
+Cons: Similar or less chance than praedos for Garesh to teleport to you.`<br/>`
 ![Archon shards](media/builds/parkour_shard.webp)
 
 ##### Initial Position
@@ -204,27 +208,29 @@ Cons: Similar or less chance than praedos for Garesh to teleport to you.<br/>
 
 ##### Rollout
 
-[Fast Rollout](https://youtu.be/RMSSlFHpev0)<br/>
-![Parkour Shard Fast Rollout](media/rollouts/pk_shard_rollout/pk_shard_fast.webp)<br/>
-[Slow Rollout](https://youtu.be/fsBbTE1XAQE)<br/>
+[Fast Rollout](https://youtu.be/RMSSlFHpev0)`<br/>`
+![Parkour Shard Fast Rollout](media/rollouts/pk_shard_rollout/pk_shard_fast.webp)`<br/>`
+[Slow Rollout](https://youtu.be/fsBbTE1XAQE)`<br/>`
 ![Parkour Shard Slow Rollout](media/rollouts/pk_shard_rollout/pk_shard_slow.webp)
 
 #### No praedos Non-tauforged parkour shard
 
-Pros: Similar chance for garesh to teleport as Non praedos No parkour shard. (Subject to change)<br/>
-Cons: None? (Subject to change)<br/>
+Pros: Similar chance for garesh to teleport as Non praedos No parkour shard. (Subject to change)`<br/>`
+Cons: None? (Subject to change)`<br/>`
 ![Archon Shards](media/rollouts//no_praedos_non-tau_pk_shard/nidus_non-tau_pk_shard_helminth.webp)
 
 ##### Initial Position
+
 ![Initial position](media/rollouts//no_praedos_non-tau_pk_shard/initial_position.jpg)
 
 ##### Rollout
-[Normal Rollout](https://youtu.be/PAVgd-tGjtY)<br/>
+
+[Normal Rollout](https://youtu.be/PAVgd-tGjtY)`<br/>`
 ![Rollout](media/rollouts//no_praedos_non-tau_pk_shard/nidus_non-tau_pk_shard_no-praedos_rollout.webp)
 
 #### No praedos No parkour shard
 
-Pros: Little chance for Garesh to teleport to you. More inputs needed.<br/>
+Pros: Little chance for Garesh to teleport to you. More inputs needed.`<br/>`
 Cons: Way behind the above, normal bullet jump
 
 ##### Initial Position
@@ -233,28 +239,45 @@ Cons: Way behind the above, normal bullet jump
 
 ##### Rollout
 
-[Normal Rollout](https://youtu.be/I5XZ-OfXY_I)<br/>
+[Normal Rollout](https://youtu.be/I5XZ-OfXY_I)`<br/>`
 ![Normal Rollout](media/rollouts/no_pk_no_praedos/Normalrollout.webp)
 
 #### (yoyo rollout) No praedos No parkour shard
 
-Pros: Remove slam animation.<br/>
-Cons: Very hard to pull off and can end up anywhere but bridge.<br/>
+Pros: Remove slam animation.`<br/>`
+Cons: Very hard to pull off and can end up anywhere but bridge.`<br/>`
 To pull this off, you need to be relatively close to the column and attack while crosshair is on the column. The game understands that you are slamming and it will glide you around the surface until finally reaching the floor.
 
 ##### Rollout
 
-[Advanced Rollout](https://youtu.be/oOR3MCnjif4)<br/>
+[Advanced Rollout](https://youtu.be/oOR3MCnjif4)`<br/>`
 ![Advanced Rollout](media/rollouts/no_pk_no_praedos/Advanced_rollout.webp)
 
 ## Bridge
 
 ### AFK position
 
-The usual position with resolution 16:9 is the following one:
-![16:9 res](media/afk_spot/16-9.webp)
-Resolution 21:9:
-![21:9 res](media/afk_spot/21-9.webp)
+#### 16:9
+
+![16:9 res](media/afk_spot/16_9_default_painted.webp)
+
+#### 21:9
+
+![21:9 res](media/afk_spot/21_9_default_painted.webp)
+
+#### Differences between 16:9 and 21:9
+
+21:9 has different spot because it has more vision on the sides. Mostly on reinforcement runs if you are looking at 16:9 spot you will be blocking the enemies spawn from the red circle of the image below, therefore enemies will spawn anywhere available on the map (which can be on your point of view or your teammates)
+
+![Blocked spawn 21:9 looking 16:9](media/afk_spot/vodyanoi_map_blocked_spot.png)
+
+##### 16:9
+
+![16:9 res default spot](media/afk_spot/16_9_default_painted.webp)![21:9 looking at 16:9 spot](media/afk_spot/21_9_looking_16_9-spot_painted.webp)
+
+#### 21:9
+
+![21:9 res default spot](media/afk_spot/21_9_default_painted.webp)![16:9 looking at 21:9 spot](media/afk_spot/16_9_looking_21_9_painted.webp)
 
 ### Bridge position
 
@@ -265,8 +288,8 @@ You always want to have the same position for each run.
 
 #### Placement on rollout
 
-**Note:** Just be aware of larva placement, don't bother with the rollout.<br/>
-Firstly depends on your first larva throw, needing enough range to pull to bridge and need to __**be aware of dome placement**__ for enemies go get attached.<br/>
+**Note:** Just be aware of larva placement, don't bother with the rollout.`<br/>`
+Firstly depends on your first larva throw, needing enough range to pull to bridge and need to __**be aware of dome placement**__ for enemies go get attached.`<br/>`
 ![Larva Feet](media/larva_bridge_placement/larva_feet.webp)
 ![Aware of dome](media/larva_bridge_placement/aware_of_dome.webp)
 ![Larva to dome](media/larva_bridge_placement/larva_to_dome.webp)
@@ -274,7 +297,7 @@ Firstly depends on your first larva throw, needing enough range to pull to bridg
 
 #### Placement After rollout
 
-**Depending on the cage placement you'd always want the larva to be totally or partially covered by the dome and as in the center as possible.**<br/>
+**Depending on the cage placement you'd always want the larva to be totally or partially covered by the dome and as in the center as possible.**`<br/>`
 
 - 🔴 = Khora
 - 🔵 = Larva
@@ -298,19 +321,19 @@ Firstly depends on your first larva throw, needing enough range to pull to bridg
 
 ### How to pop on bridge
 
-**Must Know: The higher the FPS are the less frames you will have to be able to pop the larva before enemies reach the larva.**<br/>
-There are several ways to pop the larva on bridge.<br/>
-(Late pop) Wait till the enemies are grouped on the larva.<br/>
-(Timed pop) Wait 0.5s and then pop the larva.<br/>
-(Insta pop) The following listed ways to pop. **(Might cause bounces(Enemy flying back to lake))**<br/>
+**Must Know: The higher the FPS are the less frames you will have to be able to pop the larva before enemies reach the larva.**`<br/>`
+There are several ways to pop the larva on bridge.`<br/>`
+(Late pop) Wait till the enemies are grouped on the larva.`<br/>`
+(Timed pop) Wait 0.5s and then pop the larva.`<br/>`
+(Insta pop) The following listed ways to pop. **(Might cause bounces(Enemy flying back to lake))**`<br/>`
 
 - Wait until a countdown appears on the larva icon(the ability).
 - Pop the larva as soon as it touches the bridge.
 - Wait till you are able to see the tendrils or threads that are created when the larva starts pulling the enemies.
 - Spam the hell out of the larva key.
 
-**I'd recommend using them according to your fps:**<br/>
-**The recommendations below do not deny the use of the larva pops from above. Try everything and use what suits best for you!**<br/>
+**I'd recommend using them according to your fps:**`<br/>`
+**The recommendations below do not deny the use of the larva pops from above. Try everything and use what suits best for you!**`<br/>`
 
 * High FPS (above 300): Timed pop and Insta pop and use whatever suits you best.
 * Medium FPS (between 100-300): Mainly use Timed pop and casually Insta pop.
@@ -318,18 +341,25 @@ There are several ways to pop the larva on bridge.<br/>
 
 ### What if larva goes through the bridge?
 
-The larva always bursts in the opposite direction of the last surface it hit.<br/>
-If you manually detonate it mid-air it defaults to that previous burst angle. This is the main reason it clips through the bridge. If you're doing the 'ceiling-to-bridge' rollout and just spam the bridge larva preventing it from hitting the actual bridge it won't flip upwards and instead it just repeats the last 'downward' pop and phases right through the bridge. Also when this happens mid-run the Larva is hitting a corpse, because corpses actually act as temporary surfaces that can flip the burst angle. Resources like Endo and other loot however don't have collision and won't affect it.<br/>
-Tip: Don't spam the larva and try throwing the larva on different zones of the bridge.<br/>
+The larva always bursts in the opposite direction of the last surface it hit.`<br/>`
+If you manually detonate it mid-air it defaults to that previous burst angle. This is the main reason it clips through the bridge. If you're doing the 'ceiling-to-bridge' rollout and just spam the bridge larva preventing it from hitting the actual bridge it won't flip upwards and instead it just repeats the last 'downward' pop and phases right through the bridge. Also when this happens mid-run the Larva is hitting a corpse, because corpses actually act as temporary surfaces that can flip the burst angle. Resources like Endo and other loot however don't have collision and won't affect it.`<br/>`
+Tip: Don't spam the larva and try throwing the larva on different zones of the bridge.`<br/>`
 Additionally there has been reports that going from 5 Tauforged shards to 4 Tauforged, reducing cast speed has helped reducing the chances of larva going through.
 
 #### Larva's "Memory"
-![Larva's "Memory"](media/larva_through_bridge/larva_memory.webp)
+
+![Larva's ](media/larva_through_bridge/larva_memory.webp)
+
 #### Hitting Corpse
+
 ![Hitting Corpse](media/larva_through_bridge/hitting_corpse.webp)
+
 #### Hitting endo
+
 ![Hitting endo](media/larva_through_bridge/endo_hitbox.webp)
+
 #### Guardian Shell (Vazarin 1st ability) is also affecting larvas burst direction. It will always make it 'burst' in ur face
+
 ![Guardian Shell](media/larva_through_bridge/guardian_shell_vazarin.webp)
 
 ### Footage bridge
@@ -344,27 +374,27 @@ Additionally there has been reports that going from 5 Tauforged shards to 4 Tauf
 
 ### Lake Position
 
-The following image shows 3 rectangles, 🟡Yellow, 🟢Green and 🔴Red.<br/>
-🟡 Yellow indicates the optimal placement for Larva throws, where all enemies will be pulled consistently every time.<br/>
-🟢 Green represents a wider area where throwing Larva is still effective and reliable.<br/>
-🔴 Red marks the outer limit where pull accuracy begins to degrade. Throwing Larva beyond this zone may cause you to miss several enemies.<br/>
-**Wether you flick or not, you should be placing the larvas inside the Yellow/Green area.**<br/>
+The following image shows 3 rectangles, 🟡Yellow, 🟢Green and 🔴Red.`<br/>`
+🟡 Yellow indicates the optimal placement for Larva throws, where all enemies will be pulled consistently every time.`<br/>`
+🟢 Green represents a wider area where throwing Larva is still effective and reliable.`<br/>`
+🔴 Red marks the outer limit where pull accuracy begins to degrade. Throwing Larva beyond this zone may cause you to miss several enemies.`<br/>`
+**Wether you flick or not, you should be placing the larvas inside the Yellow/Green area.**`<br/>`
 
 ![Larva placement](media/lake_position/larva_placement.webp)
 
 ### When to stop larva on lake
 
-Looking at the next image you want to stop the larva inside the green oval.<br/>
-To practice your range you can place a waypoint on the white strip on the tube inside the green oval and make use of the minimap to understand if your larva was stopped succesfully.<br/>
+Looking at the next image you want to stop the larva inside the green oval.`<br/>`
+To practice your range you can place a waypoint on the white strip on the tube inside the green oval and make use of the minimap to understand if your larva was stopped succesfully.`<br/>`
 ![Larva position from top](media/lake_position/larva_range_minimap.webp)
 
 ### How to pop larva on lake
 
-Lake larva pops are the same as bridge pops but now you have to take into account the trajectory of each of the enemies so you avoid flings on bridge.<br/>
-(Late pop) Is the same as bridge. Wait until all the enemies are grouped on the larva to pop it.<br/>
-(Timed pop) Timed pop in lake means you have popped the larva just as the enemies are inside/close to the an imaginary circle around the larva.<br/>
-![Pop range](media/larva_pop/pop_area.webp)<br/>
-(Insta pop) The following listed ways to pop. **(Might cause flings on lake, meaning they might be flying outside the zone to pull to bridge)**<br/>
+Lake larva pops are the same as bridge pops but now you have to take into account the trajectory of each of the enemies so you avoid flings on bridge.`<br/>`
+(Late pop) Is the same as bridge. Wait until all the enemies are grouped on the larva to pop it.`<br/>`
+(Timed pop) Timed pop in lake means you have popped the larva just as the enemies are inside/close to the an imaginary circle around the larva.`<br/>`
+![Pop range](media/larva_pop/pop_area.webp)`<br/>`
+(Insta pop) The following listed ways to pop. **(Might cause flings on lake, meaning they might be flying outside the zone to pull to bridge)**`<br/>`
 
 - Wait until a countdown appears on the larva icon(the ability).
 - Pop the larva as soon as you stop the larva on lake.
@@ -376,6 +406,27 @@ Lake larva pops are the same as bridge pops but now you have to take into accoun
 > * [Locked 120Fps Timed pop run](https://youtu.be/K--TCFZf2jU)
 > * [Locked 120Fps Insta pop run](https://youtu.be/pMytam2SuN8)
 > * [Unlocked ~300Fps Timed pop run](https://youtu.be/3upWUc4khPQ)
+
+### How to 24+5 on non-reinforcements
+
+As we know already a non reinforcement run is 5+5+5+5+5 = 25 enemies killed.`<br/>`
+A 24+5 run means that in any of the 5 waves, you have left one enemy alive, resting the score and allowing you to make an extra round of 5: 5+5+5+5+4+5 = 29.`<br/>`
+To perform a 24+5, the safest way is to perform a short pull on lake (but realistically you can really make a 24+5 out of any situation, a fling, a pov spawn, a garesh that teleported on the beginning, list goes on and on)
+The larva placement for a short pull should be inside the green figure. **This however should only be done when there is only one spawn on the backside (the yellow circle).**
+
+#### Single back spawn
+
+![Single backspawn short larva](media/24_plus_5/backside.png)
+![Short larva](media/24_plus_5/short_pull.webp)
+
+#### Double back spawn
+
+![Double backspawn short larva](media/24_plus_5/double_spawn_24_plus_5_example_colors.png)
+![Double back spawn short larva](media/24_plus_5/double_backspawn.webp)
+
+#### Example Footage
+
+[1m10s non-reinforcement 24+5 with fling](https://youtu.be/-kqhxavrgjw)
 
 ### Is flick necessary?
 
@@ -389,25 +440,25 @@ Optimize your rollout speed, add flicks without breaking your wrist(please) and 
 
 ### Flings
 
-**Depending on the lake larva pop, placement of the dome and bridge larva, enemies might fling above or around the dome.**<br/>
-**Usually the main reason of flings are:**<br/>
+**Depending on the lake larva pop, placement of the dome and bridge larva, enemies might fling above or around the dome.**`<br/>`
+**Usually the main reason of flings are:**`<br/>`
 
 - An enemy that has different distance from the rest of the enemies and the larva got popped before the specific enemy reached the imaginary circle around the larva making it have a different position from the rest on the air, therefore having a different trajectory towards bridge.
-- An insta pop that has made the enemies spread vastly on the air making them all have different positions and trajectories.<br/>
-**What's the easy way to avoid flings?**
+- An insta pop that has made the enemies spread vastly on the air making them all have different positions and trajectories.`<br/>`
+  **What's the easy way to avoid flings?**
 - Pop the larva in time to avoid enemies getting spread on lake.
 - Place dome/larva according to each other's playstyle
 
 **Trajectory**
-The trajectory of the fling depends on the enemy initial position(mid air lake) and bridge larva position, then the dome would be acting as a net to grab the enemies with x grab radius around it.<br/>
+The trajectory of the fling depends on the enemy initial position(mid air lake) and bridge larva position, then the dome would be acting as a net to grab the enemies with x grab radius around it.`<br/>`
 
-The following examples could've been avoided(**or not**) by either having the dome placed accordingly to the larva placement or otherwise, placing the larva according to the dome. This is why its important to be aware of each other's playstyle. And sometimes even if everything is going good and well placed, flings might happen, so at that point just pull n pray.<br/>
+The following examples could've been avoided(**or not**) by either having the dome placed accordingly to the larva placement or otherwise, placing the larva according to the dome. This is why its important to be aware of each other's playstyle. And sometimes even if everything is going good and well placed, flings might happen, so at that point just pull n pray.`<br/>`
 ![Bridge Larva fling](media/flings_media/bridge_larva_fling.webp)
 ![Bridge Larva fling2](media/flings_media/bridge_larva_fling2.webp)
 
 ## Fix locations
 
-Here are some known fixes to pull the enemies to bridge, this however doesn't mean you cannot improvise and use other surfaces. As long as you get the enemies to bridge succesfully it will be good.<br/>
+Here are some known fixes to pull the enemies to bridge, this however doesn't mean you cannot improvise and use other surfaces. As long as you get the enemies to bridge succesfully it will be good.`<br/>`
 ![Fix locations](media/fixes_media/all_locations.webp)
 
 ### Fix area coverage
@@ -569,6 +620,7 @@ The position shown makes use of the height to pull enemies from the platform on 
 ---
 
 # Credits
-[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.<br/>
-__**ZGB**__ - Helped creating some images and improved wording.<br/>
-__**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it.<br/>
+
+[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.`<br/>`
+__**ZGB**__ - Helped creating some images and improved wording.`<br/>`
+__**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it. Shared footage of [24+5](#how-to-245-on-non-reinforcements)`<br/>`
