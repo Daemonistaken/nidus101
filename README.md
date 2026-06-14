@@ -624,3 +624,4 @@ The position shown makes use of the height to pull enemies from the platform on 
 [__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.`<br/>`
 __**ZGB**__ - Helped creating some images and improved wording.`<br/>`
 __**Obliterate**__ - Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it. Shared footage of [24+5](#how-to-245-on-non-reinforcements)`<br/>`
+__**-JOPA-Quk**__ - Shared pictures of 21:9 resolution for [afk position section](#afk-position)
