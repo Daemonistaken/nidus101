@@ -23,6 +23,7 @@
 
 - [What is larva](#what-is-larva)
 - [What does the augment do](#what-does-the-augment-do)
+- [How to pop larva](#how-to-pop-larva-on-lake)
 
 ### [Rollouts](#rollout-1)
 
@@ -35,11 +36,10 @@
 ### [Bridge](#bridge-1)
 
 - [Afk position](#afk-position)
+- [Stairs position](#stairs)
 - [Bridge position](#bridge-position)
 - [Larva placement on rollout](#placement-on-rollout)
 - [Larva placement after rollout](#placement-after-rollout)
-- [How to pop](#how-to-pop-on-bridge)
-- [What if larva goes through?](#what-if-larva-goes-through-the-bridge)
 - [Footage](#footage-bridge)
 
 ### [Lake](#lake-larva)
@@ -259,6 +259,9 @@ To pull this off, you need to be relatively close to the column and attack while
 
 [Advanced Rollout](https://youtu.be/oOR3MCnjif4)
 ![Advanced Rollout](media/rollouts/no_pk_no_praedos/Advanced_rollout.webp)
+![yoyorollout1](media/larva_bridge_placement/yoyorollout1.webp)
+![yoyorollout2](media/larva_bridge_placement/yoyorollout2.webp)
+![yoyorollout3](media/larva_bridge_placement/yoyorollout3.webp)
 
 ## AFK Positions
 
@@ -338,6 +341,9 @@ Firstly depends on your first larva throw, needing enough range to pull to bridg
 ![Larva center](media/larva_bridge_placement/larva_center.webp)
 ![Larva center video](media/larva_bridge_placement/larva_center_video.webp)
 
+##### Dome on stairs and larva between khora and nidus
+
+
 ### Footage stairs
 
 > **Try to be aware of pops and don't bother with the rest.**
@@ -359,6 +365,11 @@ If the larva placement is too high you might not pull backspawns (Around the red
 ![Rock Higlight 2](media/lake_position/rock_highlight_2.webp)
 
 ### Footage lake
+![1](media/lake_position/pull1.webp)
+![2](media/lake_position/pull2.webp)
+![3](media/lake_position/pull3.webp)
+![4](media/lake_position/pull4.webp)
+![5](media/lake_position/pull4.webp)
 
 > **Try to be aware of Lake pops and don't bother with the rest.**
 >
@@ -587,14 +598,13 @@ The position shown makes use of the height to pull enemies from the platform on 
 
 # Credits
 
-[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.<br/>
+[__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.
 
-__**ZGB**__ <br/>
-  Helped creating some images and improved wording.<br/>
-__**Obliterate**__<br/>
-  Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it. <br/>
-  Shared footage of [24+5](#how-to-245-on-non-reinforcements) (Explanation is still on the outdated version)<br/>
-  Shared footage of [larva traveling speed based on fps](#introduction-1)<br/>
-__**-JOPA-Quk**__ 
-  Shared pictures of 21:9 resolution for [afk position section](#afk-position)<br/>
-
+__**ZGB**__ 
+  Helped creating some images and improved wording.
+__**Obliterate**__
+  Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it. 
+  Shared footage of [24+5](#how-to-245-on-non-reinforcements) (Explanation is still on the outdated version)
+  Shared footage of [larva traveling speed based on fps](#introduction-1)
+__**-JOPA-Quk**__
+  Shared pictures of 21:9 resolution for [afk position section](#afk-position)
