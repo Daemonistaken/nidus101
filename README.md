@@ -45,10 +45,9 @@
 ### [Lake](#lake-larva)
 
 - [Larva Position](#lake-position)
-- [When to stop](#when-to-stop-larva-on-lake)
 - [How to pop](#how-to-pop-larva-on-lake)
 - [Footage](#footage-lake)
-- [How to 24+5](#how-to-245-on-non-reinforcements)
+- [How to 24+5](#how-to-245-on-non-reinforcements-the-basics-is-the-same-as-of-now-just-footage-is-outdated)
 - [Is flick necessary?](#is-flick-necessary)
 
 ### [Miscellanea](#miscellanea-1)
