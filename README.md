@@ -40,7 +40,7 @@
 - [Bridge position](#bridge-position)
 - [Larva placement on rollout](#placement-on-rollout)
 - [Larva placement after rollout](#placement-after-rollout)
-- [Footage](#footage-bridge)
+- [Footage](#footage-stairs)
 
 ### [Lake](#lake-larva)
 
