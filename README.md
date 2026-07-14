@@ -53,14 +53,13 @@
 ### [Miscellanea](#miscellanea-1)
 
 - [How to reduce time in mission?](#how-to-reduce-time-in-mission)
-- [Flings](#flings)
 
 ### [Fixes](#fix-locations)
 
 - [Lamp](#-lamp)
 - [Sight bottom](#-sight-bottom)
 - [Sight ceiling](#-sight-ceiling)
-- [L nekros mid air](#-l-nekros-mid-air)
+- [L nekros](#-l-nekros)
 - [Big fan](#-big-fan)
 - [Deep Platform](#-deep-platform)
 
@@ -341,6 +340,8 @@ Firstly depends on your first larva throw, needing enough range to pull to bridg
 ![Larva center video](media/larva_bridge_placement/larva_center_video.webp)
 
 ##### Dome on stairs and larva between khora and nidus
+![Stairs img](media/larva_bridge_placement/stairs.png)
+![pull1](media/lake_position/pull1.webp)
 
 
 ### Footage stairs
@@ -409,24 +410,6 @@ No, unless you are looking to go for fast runs.
 ### How to reduce time in mission?
 
 Optimize your rollout speed, add flicks without breaking your wrist(please), time pop the larva as precise as possible and if your fps lets you, let the larva travel as fast as possible
-
-### Flings
-
-**Depending on the lake larva pop, placement of the dome and bridge larva, enemies might fling above or around the dome.**
-**Usually the main reason of flings are:**
-
-- An enemy that has different distance from the rest of the enemies and the larva got popped before the specific enemy reached the imaginary circle around the larva making it have a different position from the rest on the air, therefore having a different trajectory towards bridge.
-- An insta pop that has made the enemies spread vastly on the air making them all have different positions and trajectories.
-  **What's the easy way to avoid flings?**
-- Pop the larva in time to avoid enemies getting spread on lake.
-- Place dome/larva according to each other's playstyle
-
-**Trajectory**
-The trajectory of the fling depends on the enemy initial position(mid air lake) and bridge larva position, then the dome would be acting as a net to grab the enemies with x grab radius around it.
-
-The following examples could've been avoided(**or not**) by either having the dome placed accordingly to the larva placement or otherwise, placing the larva according to the dome. This is why its important to be aware of each other's playstyle. And sometimes even if everything is going good and well placed, flings might happen, so at that point just pull n pray.
-![Bridge Larva fling](media/flings_media/bridge_larva_fling.webp)
-![Bridge Larva fling2](media/flings_media/bridge_larva_fling2.webp)
 
 ## Fix locations
 
@@ -534,14 +517,20 @@ The position shown makes use of the height to pull enemies from the platform on 
 
 ---
 
-### 🟣 L nekros mid air
+### 🟣 L nekros
 
 #### Bridge Version
 
 ##### Larva Position
 
-![](media/fixes_media/l_nek_mid_air/mid_air_l_nek_fix_larva.jpg)
-![](media/fixes_media/l_nek_mid_air/mid_air_l_nek_fix_larva_pov_2.jpg)
+![](media/fixes_media/l_nek_mid_air/door_larva.jpg)
+![](media/fixes_media/l_nek_mid_air/bridge_larva.jpg)
+
+#### Stairs Lamp Version
+
+##### Larva Position
+![1](media/fixes_media/l_nek_mid_air/l_nek_larva_1.jpg)
+![2](media/fixes_media/l_nek_mid_air/l_nek_larva_2.jpg)
 
 ##### Larva Location/Area on minimap
 
@@ -551,9 +540,6 @@ The position shown makes use of the height to pull enemies from the platform on 
 
 ![](media/fixes_media/l_nek_mid_air/l_nek_mid_air_area.webp)
 
-#### Stairs Lamp Version
-
-##### Larva Position
 
 ### Sub-Fixes
 
