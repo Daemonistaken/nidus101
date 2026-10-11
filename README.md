@@ -35,12 +35,13 @@
 
 ### [Bridge](#bridge-1)
 
-- [Afk position](#afk-position)
-- [Stairs position](#stairs)
-- [Bridge position](#bridge-position)
-- [Larva placement on rollout](#placement-on-rollout)
-- [Larva placement after rollout](#placement-after-rollout)
-- [Footage](#footage-stairs)
+- [Afk position](#afk-positions)
+  - [Stairs position](#stairs)
+  - [Bridge position](#bridge-position)
+- [Bridge Larva](#bridge-larva)
+  - [Larva placement on rollout](#placement-on-rollout)
+  - [Larva placement after rollout](#placement-after-rollout)
+  - [Footage](#footage-stairs)
 
 ### [Lake](#lake-larva)
 
