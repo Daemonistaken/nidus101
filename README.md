@@ -267,11 +267,11 @@ To pull this off, you need to be relatively close to the column and attack while
 
 #### Stairs Position
 
-![Stairs Position](media/bridge_position/stairs_position.jpg)
+![Stairs Position](media/bridge_position/stairs.jpg)
 
 #### Afk Spot 16:9
 
-![Stairs Afk Spot 16:9](media/afk_spot/stairs_spot.jpg)
+![Stairs Afk Spot 16:9](media/afk_spot/afk2.png)
 
 ### Bridge
 
@@ -529,6 +529,11 @@ The position shown makes use of the height to pull enemies from the platform on 
 #### Stairs Lamp Version
 
 ##### Larva Position
+
+Best angle should be using the right lamp shown in the green rectangle. Thus, you can pull the enemies from bot stairs and bridge as well as the enemies on left nekros position.
+![0.1](media/fixes_media/l_nek_mid_air/right_lamp.jpg)
+
+Less useful option:
 ![1](media/fixes_media/l_nek_mid_air/l_nek_larva_1.jpg)
 ![2](media/fixes_media/l_nek_mid_air/l_nek_larva_2.jpg)
 
@@ -586,7 +591,7 @@ The position shown makes use of the height to pull enemies from the platform on 
 [__**WFPedia's creators**__](https://wfpedia.com/posts/endo/basics) - Making an endo guide in the first place.
 
 __**ZGB**__ 
-  Helped creating some images and improved wording.
+  Helped creating footage and improved wording.
 __**Obliterate**__
   Detailed [What if larva goes through the bridge?](#what-if-larva-goes-through-the-bridge) and made footage of it. 
   Shared footage of [24+5](#how-to-245-on-non-reinforcements) (Explanation is still on the outdated version)
